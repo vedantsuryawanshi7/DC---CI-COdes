@@ -1,0 +1,2 @@
+with open("server_uri.txt", "w") as f:
+    f.write(str(uri))
